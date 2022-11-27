@@ -1,0 +1,6 @@
+package screening;
+
+class ScreeningTest {
+
+
+}
